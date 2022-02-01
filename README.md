@@ -1,2 +1,6 @@
 # gitflow-test
-gradle initialization 
+gradle initialization
+
+Release v0.0.1
+
+
