@@ -10,5 +10,11 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
+ 	
+	String greeting = new App().getGreeting();
+
+	for(int i = 0; i < greeting.size(); i++){
+		System.out.println(greeting);
+	}
     }
 }
