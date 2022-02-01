@@ -1,0 +1,4 @@
+- Released v0.0.1
+- changed App.java file
+- initial commit: initialized gradle
+- Initial commit
